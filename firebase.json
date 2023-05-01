@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dist/trabajo-integrador-repetto-tomas",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
