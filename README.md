@@ -11,7 +11,7 @@
 Algunas de las características principales son: 
 
 *   Seguridad con JWT
-*   CRUD completo de 4 entidades
+*   CRUD completo
 *   FrontEnd Dinamico
 *   Single Page Application (SPA)
   
