@@ -6,8 +6,6 @@
 
 [https://argentinaprogramafronten-9e640.web.app/](https://argentinaprogramafronten-9e640.web.app/)
 
-<h2>Arquitectura Web</h2>
-<img src="maquetado/Arquitectura_Web.drawio.png">
 
 <h2>Características</h2>
 Algunas de las características principales son: 
