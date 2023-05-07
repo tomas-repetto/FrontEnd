@@ -1,27 +1,61 @@
-# TrabajoIntegradorRepettoTomas
+<h1 align="center" id="title">portfolio-FrontEnd</h1>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.5.
+<p id="description">Proyecto Final del curso YoProgramo 2da etapa del Plan Argentina Programa</p>
 
-## Development server
+<h2>Link</h2>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+[https://argentinaprogramafronten-9e640.web.app/](https://argentinaprogramafronten-9e640.web.app/)
 
-## Code scaffolding
+<h2>Arquitectura Web</h2>
+<img src="maquetado/Arquitectura_Web.drawio.png">
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+<h2>Características</h2>
+Algunas de las características principales son: 
 
-## Build
+*   Seguridad con JWT
+*   CRUD completo de 4 entidades
+*   FrontEnd Dinamico
+*   Single Page Application (SPA)
+  
+<h2>Hecho en</h2>
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Tecnologías usadas en el proyecto: 
+  <p align="center">
+    <a href="https://www.java.com/" target="_blank">
+      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white">
+    </a>
+    <a href="https://spring.io/" target="_blank">
+      <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white">
+    </a>
+    <a href="https://www.mysql.com/" target="_blank">
+      <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white">
+    </a>
+    <a href="https://github.com/" target="_blank">
+      <img src="https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white">
+    </a>
+    <a href="https://firebase.google.com/" target="_blank">
+      <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase">
+    </a>
+    <a href="https://www.render.com/" target="_blank">
+      <img src="https://img.shields.io/badge/render-%2343000.svg?style=plastic&logo=render&logoColor=white">
+    </a>
+    <br>
+    <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
+      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank">
+      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
+    </a>
+    <a href="https://getbootstrap.com/" target="_blank">
+      <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white">
+    </a>
+    <a href="https://www.javascript.com/" target="_blank">
+      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E">
+    </a>
+    <a href="https://www.typescriptlang.org/" target="_blank">
+      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white">
+    </a>
+    <a href="https://angular.io/" target="_blank">
+      <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white">
+    </a>
+   </p>
